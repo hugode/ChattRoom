@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#37526d</color>
-    <color name="colorPrimaryDark">#2F465E</color>
-    <color name="colorAccent">#f44336</color>
-    <color name="colorSecondAccent">#F8D283</color>
+    <color name="colorPrimary">#36516e</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="statusBar">#2e465f</color>
+    <color name="startButton">#e5cf0b</color>
+    <color name="white">#ffffff</color>
+    <color name="active">#ff5521</color>
 </resources>

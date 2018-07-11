@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "63364646969",
-    "firebase_url": "https://ubtroom-f4960.firebaseio.com",
-    "project_id": "ubtroom-f4960",
-    "storage_bucket": "ubtroom-f4960.appspot.com"
+    "project_number": "157919493088",
+    "firebase_url": "https://summera-23b32.firebaseio.com",
+    "project_id": "summera-23b32",
+    "storage_bucket": "summera-23b32.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:63364646969:android:7187a522778af488",
+        "mobilesdk_app_id": "1:157919493088:android:cd0f99a983083e45",
         "android_client_info": {
-          "package_name": "com.ubt.ubtroom"
+          "package_name": "com.example.redon.summera"
         }
       },
       "oauth_client": [
         {
-          "client_id": "63364646969-mq7lko8sja6g49t3rg4etojifdkpp0jj.apps.googleusercontent.com",
+          "client_id": "157919493088-0jvnql1v7he9p36ndgbogdeb84vu3ccp.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ubt.ubtroom",
-            "certificate_hash": "83d9f7ad4160fb51e012a517848c05345075cbcf"
+            "package_name": "com.example.redon.summera",
+            "certificate_hash": "b6c60ba3068912528a1d9d6920ef96d1c442d836"
           }
         },
         {
-          "client_id": "63364646969-7pjgl248rr7eo4043h9pb4o64j8s2p5r.apps.googleusercontent.com",
+          "client_id": "157919493088-93tt3c12ida911pdhqecds1iqainmbid.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAozNygUUxsJg6ht4nxhrEfTl1bXA_9dsg"
+          "current_key": "AIzaSyBlQOCY6WzEMxai0TiqDMtGuuZRn2cRXI4"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "63364646969-7pjgl248rr7eo4043h9pb4o64j8s2p5r.apps.googleusercontent.com",
+              "client_id": "157919493088-93tt3c12ida911pdhqecds1iqainmbid.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
