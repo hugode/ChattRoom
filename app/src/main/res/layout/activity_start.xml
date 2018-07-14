@@ -31,6 +31,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/login_button"
         android:layout_centerInParent="true"
-        android:text="Need a new account?" />
+        android:text="Need a new Account?" />
 
 </RelativeLayout>
