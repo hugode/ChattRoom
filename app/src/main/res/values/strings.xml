@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">summera</string>
+    <string name="app_name">UbtRoom</string>
+    <string name="welcome_to_ubt">Welcome to\nUBT Room</string>
 </resources>
