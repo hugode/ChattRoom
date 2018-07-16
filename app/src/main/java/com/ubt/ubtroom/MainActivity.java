@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, StartActivity.class));
                 finish();
                 return true;
-            case R.id.profil:
+            case R.id.profile:
                 startActivity(new Intent(this,ProfileActivity.class));
                 return true;
         }
