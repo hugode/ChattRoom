@@ -62,6 +62,9 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, StartActivity.class));
                 finish();
                 return true;
+            case R.id.profil:
+                startActivity(new Intent(this,ProfileActivity.class));
+                return true;
         }
         return false;
     }
