@@ -50,5 +50,5 @@
         android:padding="10dp"
         android:text="Create Account"
         android:textColor="@color/white" />
-x`
+
 </RelativeLayout>
